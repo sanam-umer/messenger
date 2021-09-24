@@ -28,4 +28,4 @@ For chat we used nodejs + express as server and on the front-end we used Angular
 
 [YouTube]: <https://www.youtube.com/channel/UCZBwn0Sdl3mabNeDCIJmNlg>
 [Twitch]: <https://www.twitch.tv/competent_programming>
-[Twitter]: <https://twitter.com/competent_dev>
+[Twitter]: <https://twitter.com/competent_dev># messenger
